@@ -1,0 +1,22 @@
+{
+    "Jake": {
+        "Question 1": {
+            "Question": "Describe the mission of your group and its major accomplishments.",
+            "Answer": "Our group\u2019s mission is to support seniors in our neighborhood by providing them with free cleaning supplies. Since our formation in 2020, we have distributed hundreds of cleaning supply kits to seniors on fixed incomes who often struggle to afford these essential items. By offering this service, we help alleviate financial burdens and contribute to a healthier living environment for older adults. One community member shared, \"I am so grateful for this group and their efforts in providing us with the necessary cleaning supplies. It's one less thing for us to worry about during these difficult times.\""
+        },
+        "Question 2": {
+            "Question": "What is your project and how will it extend beyond your regular operations?",
+            "Answer": "To support our mission, we have planned a project that involves hosting a series of 4 events at senior centers and community resource centers located in and around the Manhattan Valley section of the Upper West Side. These events will involve 10 to 20 volunteers at each site who will assist us in assembling individual cleaning supply kits for seniors in need. Each event will aim to prepare 50-100 kits, depending on the availability of supplies and volunteers. We will even put notes and letters in each kit with an encouraging message in the hopes that the people who receive the kits will know that they are seen and appreciated."
+        }
+    },
+    "Sarah": {
+        "Question 1": {
+            "Question": "Describe the mission of your group and its major accomplishments.",
+            "Answer": "Our group is dedicated to improving literacy among underserved children in our community. We have held after-school tutoring sessions for over 200 children since our inception. Through this initiative, we have seen measurable improvement in reading comprehension scores and overall academic confidence. One child we worked with, Jake, improved his reading grade from a C to an A in just a few months."
+        },
+        "Question 2": {
+            "Question": "What is your project and how will it extend beyond your regular operations?",
+            "Answer": "Our project involves expanding our tutoring services to reach a wider age range, from elementary to middle school students. We will recruit more volunteers, utilize digital resources, and provide free reading materials to the children who attend. This project will extend beyond regular tutoring by hosting workshops and creating a mobile app for easy access to learning resources for parents and students."
+        }
+    }
+}
